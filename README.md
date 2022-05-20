@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RyunosukeNakagawa</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakagawaryunosuke&label=Profile%20views&color=0e75b6&style=flat&layout=compact" alt="nakagawaryunosuke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakagawaryunosuke&label=Profile%20views&color=0e75b6&style=flat" alt="nakagawaryunosuke" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakagawaryunosuke&show_icons=true&locale=en" alt="nakagawaryunosuke" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakagawaryunosuke&show_icons=true&locale=en&layout=compact" alt="nakagawaryunosuke" /></p>
 
