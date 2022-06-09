@@ -2,9 +2,9 @@
 
 <div>
   <h2>My Portfolio</h2>  
-  <p><a href="https://nakagawaryunosuke.github.io/grid-layout-sample01/" target="_blank" rel="noopener noreferrer">企業サイト（模写コーディング）</a></P>
-  <p><a href="https://red-tree-074911c00.1.azurestaticapps.net" target="_blank" rel="noopener noreferrer">食事管理アプリ</a></P>
-  <p><a href="https://victorious-cliff-038858200.1.azurestaticapps.net" target="_blank" rel="noopener noreferrer">俳優志望の学生向けSNS</a></P>
+  <p><a href="https://nakagawaryunosuke.github.io/grid-layout-sample01/">企業サイト（模写コーディング）</a></P>
+  <p><a href="https://red-tree-074911c00.1.azurestaticapps.net">食事管理アプリ</a></P>
+  <p><a href="https://victorious-cliff-038858200.1.azurestaticapps.net">俳優志望の学生向けSNS</a></P>
 </div>
 
 <p align="center"> 
